@@ -5,10 +5,14 @@ https://github.com/user-attachments/assets/18390a39-42ce-44b5-a75a-ce179ee29bfc
 
 
 I was checking the correctness of the motors and propellers when I noticed something. the motors were wrong. although I wrote them correctly in the .sdf file and in the ardupilot as I found on the internet, the wrong motors are displayed in the ‘motortest’ command. 
+
 https://github.com/user-attachments/assets/1e97f612-2a92-4c6d-9aa3-88d42e5ef73d
+
 
 I thought that the error might be due to this and corrected the engines. I rearranged the quadplane tiltrotor as it should be. but this time the vehicle somersaults during takeoff and cannot even take flight. I still can't find out what's wrong here.
 ![image](https://github.com/user-attachments/assets/25b4b27b-b603-4a4d-8923-b01a35260292)
+
+
 https://github.com/user-attachments/assets/f9369492-fbbb-428f-867a-3b9c3d60463b
 
 

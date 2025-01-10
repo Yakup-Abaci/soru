@@ -10,7 +10,9 @@ https://github.com/user-attachments/assets/1e97f612-2a92-4c6d-9aa3-88d42e5ef73d
 
 
 I thought that the error might be due to this and corrected the engines. I rearranged the quadplane tiltrotor as it should be. but this time the vehicle somersaults during takeoff and cannot even take flight. I still can't find out what's wrong here.
-![image](https://github.com/user-attachments/assets/25b4b27b-b603-4a4d-8923-b01a35260292)
+
+![image](https://github.com/user-attachments/assets/0986d3b6-4e31-454a-b2e7-eb6a89d57c60)
+
 
 
 https://github.com/user-attachments/assets/f9369492-fbbb-428f-867a-3b9c3d60463b

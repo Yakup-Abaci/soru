@@ -1,4 +1,4 @@
-# soru
+# The problem of passage of tilt-rotor vehicles in the gazebo9
 I am working on a quadplane tilt-rotor in gazebo. I used the model but there is a problem in flight. The vehicle switches during the mission and starts to fall after the ‘FW Done’ message. I thought it was because of the tilt, but I tried a lot and could not find the error. The error still persists and I have attached the model file and parameter file I used. 
 
 https://github.com/user-attachments/assets/18390a39-42ce-44b5-a75a-ce179ee29bfc
